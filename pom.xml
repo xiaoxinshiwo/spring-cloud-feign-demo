@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.xiaoxin</groupId>
-	<artifactId>spring-clould-demo</artifactId>
+	<artifactId>spring-cloud-feign-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-clould-demo</name>
+	<name>spring-cloud-feign-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
